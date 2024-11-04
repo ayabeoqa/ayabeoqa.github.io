@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ayabeoqa.github.io/ISq/sitemap_index.txt
+Sitemap: https://ayabeoqa.github.io/KZL/sitemap_index.txt
+Sitemap: https://ayabeoqa.github.io/Rwf/sitemap_index.txt
+Sitemap: https://ayabeoqa.github.io/exM/sitemap_index.txt
